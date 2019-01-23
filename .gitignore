@@ -13,6 +13,8 @@ node_modules/
 .tmp/
 app/temp/
 app/assets/images/sprites
+# The docs folder is created dynamically. No need for VCS.
+docs
 # OS or Editor folders
 .DS_Store
 Thumbs.db
